@@ -11,24 +11,6 @@ body{
     background-color: rgb(24, 128, 128);
 }
 
-.head{
-    justify-content: center;
-    flex-direction: none;
-    text-align: center;
-}
-
-.head .orange{
-    color: rgb(228, 161, 38);
-}
-
-.head .white{
-    color: white;
-}
-
-.head .green{
-    color: green;
-}
-
 .container{
     position: relative;
     width: 1100px;
